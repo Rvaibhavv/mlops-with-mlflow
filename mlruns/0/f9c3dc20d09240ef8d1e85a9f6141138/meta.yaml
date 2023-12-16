@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rvaib/onedrive/desktop/project1/mlops-with-mlflow/mlruns/0/f9c3dc20d09240ef8d1e85a9f6141138/artifacts
+end_time: 1702721408043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9c3dc20d09240ef8d1e85a9f6141138
+run_name: popular-ray-236
+run_uuid: f9c3dc20d09240ef8d1e85a9f6141138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702721402502
+status: 3
+tags: []
+user_id: rvaib

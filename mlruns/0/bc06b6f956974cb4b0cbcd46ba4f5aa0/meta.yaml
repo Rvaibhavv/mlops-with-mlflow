@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rvaib/onedrive/desktop/project1/mlops-with-mlflow/mlruns/0/bc06b6f956974cb4b0cbcd46ba4f5aa0/artifacts
+end_time: 1702721769757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc06b6f956974cb4b0cbcd46ba4f5aa0
+run_name: charming-stork-298
+run_uuid: bc06b6f956974cb4b0cbcd46ba4f5aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702721764482
+status: 3
+tags: []
+user_id: rvaib

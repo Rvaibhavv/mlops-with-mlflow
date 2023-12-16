@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rvaib/onedrive/desktop/project1/mlops-with-mlflow/mlruns/0/fae61416028c4c40be169c6ef786e649/artifacts
+end_time: 1702721606884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fae61416028c4c40be169c6ef786e649
+run_name: honorable-fawn-944
+run_uuid: fae61416028c4c40be169c6ef786e649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702721601664
+status: 3
+tags: []
+user_id: rvaib

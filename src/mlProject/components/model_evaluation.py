@@ -10,7 +10,6 @@ import joblib
 from mlProject.utils.common import save_json
 from mlProject.entity.config_entity import ModelEvaluationConfig
 
-
 class ModelEvaluation:
     def __init__(self, config: ModelEvaluationConfig):
         self.config = config
@@ -54,8 +53,10 @@ class ModelEvaluation:
             mlflow.log_metric("mae", mae)
 
 
-            
+     
             if tracking_url_type_store != "file":
+
+ 
                 mlflow.sklearn.log_model(model, "model", registered_model_name="ElasticnetModel")
             else:
                 mlflow.sklearn.log_model(model, "model")

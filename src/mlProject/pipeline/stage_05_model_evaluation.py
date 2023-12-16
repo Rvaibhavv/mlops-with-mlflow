@@ -2,7 +2,7 @@ from mlProject.config.configuration import ConfigurationManager
 from mlProject.components.model_evaluation import ModelEvaluation
 from mlProject import logger
 
-STAGE_NAME="model evaluation stage"
+STAGE_NAME = "Model evaluation stage"
 
 class ModelEvaluationTrainingPipeline:
     def __init__(self):
@@ -15,6 +15,7 @@ class ModelEvaluationTrainingPipeline:
         model_evaluation_config.log_into_mlflow()
 
 
+
 if __name__ == '__main__':
     try:
         logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
@@ -24,6 +25,4 @@ if __name__ == '__main__':
     except Exception as e:
         logger.exception(e)
         raise e
-
-
 
