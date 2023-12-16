@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rvaib/onedrive/desktop/project1/mlops-with-mlflow/mlruns/0/957687acada648d49abf0d6b34ef47cf/artifacts
+end_time: 1702719163589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 957687acada648d49abf0d6b34ef47cf
+run_name: fun-smelt-997
+run_uuid: 957687acada648d49abf0d6b34ef47cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702719158902
+status: 3
+tags: []
+user_id: rvaib
